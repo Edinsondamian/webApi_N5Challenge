@@ -1,0 +1,11 @@
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.Repository\bin\Debug\net8.0\ChallengeN5.Infrastructure.Repository.deps.json
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.Repository\bin\Debug\net8.0\ChallengeN5.Infrastructure.Repository.dll
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.Repository\bin\Debug\net8.0\ChallengeN5.Infrastructure.Repository.pdb
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.Repository\obj\Debug\net8.0\ChallengeN5.Infrastructure.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.Repository\obj\Debug\net8.0\ChallengeN5.Infrastructure.Repository.AssemblyInfoInputs.cache
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.Repository\obj\Debug\net8.0\ChallengeN5.Infrastructure.Repository.AssemblyInfo.cs
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.Repository\obj\Debug\net8.0\ChallengeN5.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.Repository\obj\Debug\net8.0\ChallengeN5.Infrastructure.Repository.dll
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.Repository\obj\Debug\net8.0\refint\ChallengeN5.Infrastructure.Repository.dll
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.Repository\obj\Debug\net8.0\ChallengeN5.Infrastructure.Repository.pdb
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.Repository\obj\Debug\net8.0\ref\ChallengeN5.Infrastructure.Repository.dll

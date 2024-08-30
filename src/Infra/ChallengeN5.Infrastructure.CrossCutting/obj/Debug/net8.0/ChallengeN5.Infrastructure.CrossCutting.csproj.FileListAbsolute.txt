@@ -1,0 +1,11 @@
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.CrossCutting\bin\Debug\net8.0\ChallengeN5.Infrastructure.CrossCutting.deps.json
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.CrossCutting\bin\Debug\net8.0\ChallengeN5.Infrastructure.CrossCutting.dll
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.CrossCutting\bin\Debug\net8.0\ChallengeN5.Infrastructure.CrossCutting.pdb
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.CrossCutting\obj\Debug\net8.0\ChallengeN5.Infrastructure.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.CrossCutting\obj\Debug\net8.0\ChallengeN5.Infrastructure.CrossCutting.AssemblyInfoInputs.cache
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.CrossCutting\obj\Debug\net8.0\ChallengeN5.Infrastructure.CrossCutting.AssemblyInfo.cs
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.CrossCutting\obj\Debug\net8.0\ChallengeN5.Infrastructure.CrossCutting.csproj.CoreCompileInputs.cache
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.CrossCutting\obj\Debug\net8.0\ChallengeN5.Infrastructure.CrossCutting.dll
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.CrossCutting\obj\Debug\net8.0\refint\ChallengeN5.Infrastructure.CrossCutting.dll
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.CrossCutting\obj\Debug\net8.0\ChallengeN5.Infrastructure.CrossCutting.pdb
+D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Infra\ChallengeN5.Infrastructure.CrossCutting\obj\Debug\net8.0\ref\ChallengeN5.Infrastructure.CrossCutting.dll
