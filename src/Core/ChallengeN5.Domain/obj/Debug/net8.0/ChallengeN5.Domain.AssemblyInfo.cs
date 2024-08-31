@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChallengeN5.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deaed158ce2c2273142bc440e22d90cc9ca31177")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChallengeN5.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChallengeN5.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

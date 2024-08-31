@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EDINSON\\APUDATA\\N5Challenge\\ChallengeN5\\src\\Core\\ChallengeN5.Domain\\ChallengeN5.Domain.csproj",
+      "projectUniqueName": "D:\\EDINSON\\APUDATA\\N5Challenge\\webApi_N5Challenge\\src\\Core\\ChallengeN5.Domain\\ChallengeN5.Domain.csproj",
       "projectName": "ChallengeN5.Domain",
-      "projectPath": "D:\\EDINSON\\APUDATA\\N5Challenge\\ChallengeN5\\src\\Core\\ChallengeN5.Domain\\ChallengeN5.Domain.csproj",
+      "projectPath": "D:\\EDINSON\\APUDATA\\N5Challenge\\webApi_N5Challenge\\src\\Core\\ChallengeN5.Domain\\ChallengeN5.Domain.csproj",
       "packagesPath": "C:\\Users\\eddy_\\.nuget\\packages\\",
-      "outputPath": "D:\\EDINSON\\APUDATA\\N5Challenge\\ChallengeN5\\src\\Core\\ChallengeN5.Domain\\obj\\",
+      "outputPath": "D:\\EDINSON\\APUDATA\\N5Challenge\\webApi_N5Challenge\\src\\Core\\ChallengeN5.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eddy_\\AppData\\Roaming\\NuGet\\NuGet.Config",

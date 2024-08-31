@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ChallengeN5.Application
-build_property.ProjectDir = D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Core\ChallengeN5.Application\
+build_property.ProjectDir = D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\Core\ChallengeN5.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\EDINSON\\APUDATA\\N5Challenge\\ChallengeN5\\src\\Core\\ChallengeN5.Application\\ChallengeN5.Application.csproj": {}
+    "D:\\EDINSON\\APUDATA\\N5Challenge\\webApi_N5Challenge\\src\\Core\\ChallengeN5.Application\\ChallengeN5.Application.csproj": {}
   },
   "projects": {
-    "D:\\EDINSON\\APUDATA\\N5Challenge\\ChallengeN5\\src\\Core\\ChallengeN5.Application\\ChallengeN5.Application.csproj": {
+    "D:\\EDINSON\\APUDATA\\N5Challenge\\webApi_N5Challenge\\src\\Core\\ChallengeN5.Application\\ChallengeN5.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EDINSON\\APUDATA\\N5Challenge\\ChallengeN5\\src\\Core\\ChallengeN5.Application\\ChallengeN5.Application.csproj",
+        "projectUniqueName": "D:\\EDINSON\\APUDATA\\N5Challenge\\webApi_N5Challenge\\src\\Core\\ChallengeN5.Application\\ChallengeN5.Application.csproj",
         "projectName": "ChallengeN5.Application",
-        "projectPath": "D:\\EDINSON\\APUDATA\\N5Challenge\\ChallengeN5\\src\\Core\\ChallengeN5.Application\\ChallengeN5.Application.csproj",
+        "projectPath": "D:\\EDINSON\\APUDATA\\N5Challenge\\webApi_N5Challenge\\src\\Core\\ChallengeN5.Application\\ChallengeN5.Application.csproj",
         "packagesPath": "C:\\Users\\eddy_\\.nuget\\packages\\",
-        "outputPath": "D:\\EDINSON\\APUDATA\\N5Challenge\\ChallengeN5\\src\\Core\\ChallengeN5.Application\\obj\\",
+        "outputPath": "D:\\EDINSON\\APUDATA\\N5Challenge\\webApi_N5Challenge\\src\\Core\\ChallengeN5.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eddy_\\AppData\\Roaming\\NuGet\\NuGet.Config",

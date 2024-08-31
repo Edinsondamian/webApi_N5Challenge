@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EDINSON\\APUDATA\\N5Challenge\\ChallengeN5\\src\\Infra\\ChallengeN5.Infrastructure.CrossCutting\\ChallengeN5.Infrastructure.CrossCutting.csproj",
+      "projectUniqueName": "D:\\EDINSON\\APUDATA\\N5Challenge\\webApi_N5Challenge\\src\\Infra\\ChallengeN5.Infrastructure.CrossCutting\\ChallengeN5.Infrastructure.CrossCutting.csproj",
       "projectName": "ChallengeN5.Infrastructure.CrossCutting",
-      "projectPath": "D:\\EDINSON\\APUDATA\\N5Challenge\\ChallengeN5\\src\\Infra\\ChallengeN5.Infrastructure.CrossCutting\\ChallengeN5.Infrastructure.CrossCutting.csproj",
+      "projectPath": "D:\\EDINSON\\APUDATA\\N5Challenge\\webApi_N5Challenge\\src\\Infra\\ChallengeN5.Infrastructure.CrossCutting\\ChallengeN5.Infrastructure.CrossCutting.csproj",
       "packagesPath": "C:\\Users\\eddy_\\.nuget\\packages\\",
-      "outputPath": "D:\\EDINSON\\APUDATA\\N5Challenge\\ChallengeN5\\src\\Infra\\ChallengeN5.Infrastructure.CrossCutting\\obj\\",
+      "outputPath": "D:\\EDINSON\\APUDATA\\N5Challenge\\webApi_N5Challenge\\src\\Infra\\ChallengeN5.Infrastructure.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eddy_\\AppData\\Roaming\\NuGet\\NuGet.Config",

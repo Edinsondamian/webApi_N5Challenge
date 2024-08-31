@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZcLIvsiI7ZM=",
+  "dgSpecHash": "NpN6tucOPFg=",
   "success": true,
-  "projectFilePath": "D:\\EDINSON\\APUDATA\\N5Challenge\\ChallengeN5\\src\\Infra\\ChallengeN5.Infrastructure.CrossCutting\\ChallengeN5.Infrastructure.CrossCutting.csproj",
+  "projectFilePath": "D:\\EDINSON\\APUDATA\\N5Challenge\\webApi_N5Challenge\\src\\Infra\\ChallengeN5.Infrastructure.CrossCutting\\ChallengeN5.Infrastructure.CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

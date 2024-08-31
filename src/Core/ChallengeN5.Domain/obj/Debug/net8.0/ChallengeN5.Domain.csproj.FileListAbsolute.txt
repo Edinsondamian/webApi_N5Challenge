@@ -9,3 +9,15 @@ D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Core\ChallengeN5.Domain\obj\Debug
 D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Core\ChallengeN5.Domain\obj\Debug\net8.0\refint\ChallengeN5.Domain.dll
 D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Core\ChallengeN5.Domain\obj\Debug\net8.0\ChallengeN5.Domain.pdb
 D:\EDINSON\APUDATA\N5Challenge\ChallengeN5\src\Core\ChallengeN5.Domain\obj\Debug\net8.0\ref\ChallengeN5.Domain.dll
+D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\Core\ChallengeN5.Domain\bin\Debug\net8.0\ChallengeN5.Domain.deps.json
+D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\Core\ChallengeN5.Domain\bin\Debug\net8.0\ChallengeN5.Domain.dll
+D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\Core\ChallengeN5.Domain\bin\Debug\net8.0\ChallengeN5.Domain.pdb
+D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\Core\ChallengeN5.Domain\obj\Debug\net8.0\ChallengeN5.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\Core\ChallengeN5.Domain\obj\Debug\net8.0\ChallengeN5.Domain.AssemblyInfoInputs.cache
+D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\Core\ChallengeN5.Domain\obj\Debug\net8.0\ChallengeN5.Domain.AssemblyInfo.cs
+D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\Core\ChallengeN5.Domain\obj\Debug\net8.0\ChallengeN5.Domain.csproj.CoreCompileInputs.cache
+D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\Core\ChallengeN5.Domain\obj\Debug\net8.0\ChallengeN5.Domain.sourcelink.json
+D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\Core\ChallengeN5.Domain\obj\Debug\net8.0\ChallengeN5.Domain.dll
+D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\Core\ChallengeN5.Domain\obj\Debug\net8.0\refint\ChallengeN5.Domain.dll
+D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\Core\ChallengeN5.Domain\obj\Debug\net8.0\ChallengeN5.Domain.pdb
+D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\Core\ChallengeN5.Domain\obj\Debug\net8.0\ref\ChallengeN5.Domain.dll
