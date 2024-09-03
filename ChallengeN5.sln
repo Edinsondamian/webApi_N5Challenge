@@ -3,24 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3E05C716-FB9D-4FD6-9279-D8E74BA1F045}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{D72CF1DA-F5EC-4727-9E6F-0ADDE1BC0ACB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeN5.API", "src\API\ChallengeN5.API\ChallengeN5.API.csproj", "{B923A286-D200-46A9-B972-A84E8331C2B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeN5.API", "src\API\ChallengeN5.API\ChallengeN5.API.csproj", "{B923A286-D200-46A9-B972-A84E8331C2B2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{03F9E352-7275-4F16-A69E-68325BFCC9FA} = {03F9E352-7275-4F16-A69E-68325BFCC9FA}
+		{6CEC13BB-21E9-4FA9-A2E5-4189F7821C1A} = {6CEC13BB-21E9-4FA9-A2E5-4189F7821C1A}
+		{E527D8BC-AFDE-4D79-A66D-9451822A54BA} = {E527D8BC-AFDE-4D79-A66D-9451822A54BA}
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{FC038A32-DDEA-4C56-8DB5-8365B887E703}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{8FFAC91E-1537-43D8-A7E1-72C1479D73BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeN5.Application", "src\Core\ChallengeN5.Application\ChallengeN5.Application.csproj", "{03F9E352-7275-4F16-A69E-68325BFCC9FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeN5.Application", "src\Core\ChallengeN5.Application\ChallengeN5.Application.csproj", "{03F9E352-7275-4F16-A69E-68325BFCC9FA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D5B0CF85-C9B8-41DB-8EDB-3EF91FAD0C94} = {D5B0CF85-C9B8-41DB-8EDB-3EF91FAD0C94}
+		{E527D8BC-AFDE-4D79-A66D-9451822A54BA} = {E527D8BC-AFDE-4D79-A66D-9451822A54BA}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeN5.Domain", "src\Core\ChallengeN5.Domain\ChallengeN5.Domain.csproj", "{D5B0CF85-C9B8-41DB-8EDB-3EF91FAD0C94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeN5.Domain", "src\Core\ChallengeN5.Domain\ChallengeN5.Domain.csproj", "{D5B0CF85-C9B8-41DB-8EDB-3EF91FAD0C94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeN5.Infrastructure.CrossCutting", "src\Infra\ChallengeN5.Infrastructure.CrossCutting\ChallengeN5.Infrastructure.CrossCutting.csproj", "{E527D8BC-AFDE-4D79-A66D-9451822A54BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeN5.Infrastructure.CrossCutting", "src\Infra\ChallengeN5.Infrastructure.CrossCutting\ChallengeN5.Infrastructure.CrossCutting.csproj", "{E527D8BC-AFDE-4D79-A66D-9451822A54BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeN5.Infrastructure.Repository", "src\Infra\ChallengeN5.Infrastructure.Repository\ChallengeN5.Infrastructure.Repository.csproj", "{6CEC13BB-21E9-4FA9-A2E5-4189F7821C1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeN5.Infrastructure.Repository", "src\Infra\ChallengeN5.Infrastructure.Repository\ChallengeN5.Infrastructure.Repository.csproj", "{6CEC13BB-21E9-4FA9-A2E5-4189F7821C1A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D5B0CF85-C9B8-41DB-8EDB-3EF91FAD0C94} = {D5B0CF85-C9B8-41DB-8EDB-3EF91FAD0C94}
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{38624FC2-6DA8-4245-85EF-E52DFC23CB90}"
 EndProject
@@ -55,8 +66,8 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{B923A286-D200-46A9-B972-A84E8331C2B2} = {D72CF1DA-F5EC-4727-9E6F-0ADDE1BC0ACB}
 		{D72CF1DA-F5EC-4727-9E6F-0ADDE1BC0ACB} = {3E05C716-FB9D-4FD6-9279-D8E74BA1F045}
+		{B923A286-D200-46A9-B972-A84E8331C2B2} = {D72CF1DA-F5EC-4727-9E6F-0ADDE1BC0ACB}
 		{FC038A32-DDEA-4C56-8DB5-8365B887E703} = {3E05C716-FB9D-4FD6-9279-D8E74BA1F045}
 		{8FFAC91E-1537-43D8-A7E1-72C1479D73BA} = {3E05C716-FB9D-4FD6-9279-D8E74BA1F045}
 		{03F9E352-7275-4F16-A69E-68325BFCC9FA} = {FC038A32-DDEA-4C56-8DB5-8365B887E703}

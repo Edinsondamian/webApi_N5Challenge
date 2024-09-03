@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+	<ItemGroup>
+		<ProjectReference Include="..\..\Infra\ChallengeN5.Infrastructure.CrossCutting\ChallengeN5.Infrastructure.CrossCutting.csproj" />
+		<ProjectReference Include="..\ChallengeN5.Domain\ChallengeN5.Domain.csproj" />
+	</ItemGroup>
 </Project>

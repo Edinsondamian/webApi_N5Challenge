@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChallengeN5.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deaed158ce2c2273142bc440e22d90cc9ca31177")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f397fea799c6899683417c48cbfdcb7a4111c6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChallengeN5.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChallengeN5.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

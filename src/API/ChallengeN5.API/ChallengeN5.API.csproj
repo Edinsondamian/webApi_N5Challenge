@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>48808b56-7b22-4ad7-8d3c-7e2276c59096</UserSecretsId>
-    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,4 +13,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+		<ProjectReference Include="..\..\Core\ChallengeN5.Application\ChallengeN5.Application.csproj" />
+		<ProjectReference Include="..\..\Infra\ChallengeN5.Infrastructure.CrossCutting\ChallengeN5.Infrastructure.CrossCutting.csproj" />
+		<ProjectReference Include="..\..\Infra\ChallengeN5.Infrastructure.Repository\ChallengeN5.Infrastructure.Repository.csproj" />
+  </ItemGroup>
+	
 </Project>
