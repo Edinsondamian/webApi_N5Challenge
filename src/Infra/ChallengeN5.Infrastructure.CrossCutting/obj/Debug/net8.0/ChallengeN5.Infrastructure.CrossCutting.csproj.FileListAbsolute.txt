@@ -21,3 +21,4 @@ D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\Infra\ChallengeN5.Infrastr
 D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\Infra\ChallengeN5.Infrastructure.CrossCutting\obj\Debug\net8.0\refint\ChallengeN5.Infrastructure.CrossCutting.dll
 D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\Infra\ChallengeN5.Infrastructure.CrossCutting\obj\Debug\net8.0\ChallengeN5.Infrastructure.CrossCutting.pdb
 D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\Infra\ChallengeN5.Infrastructure.CrossCutting\obj\Debug\net8.0\ref\ChallengeN5.Infrastructure.CrossCutting.dll
+D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\Infra\ChallengeN5.Infrastructure.CrossCutting\obj\Debug\net8.0\ChallengeN5.Infrastructure.CrossCutting.csproj.AssemblyReference.cache
