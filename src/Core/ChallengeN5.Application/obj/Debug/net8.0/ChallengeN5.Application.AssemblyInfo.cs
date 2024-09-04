@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChallengeN5.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e85fd45cad2d2f29f0413aeede38ea0d22f9042")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01a187e948f2bb3ffa22109e3087de372a839a76")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChallengeN5.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChallengeN5.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

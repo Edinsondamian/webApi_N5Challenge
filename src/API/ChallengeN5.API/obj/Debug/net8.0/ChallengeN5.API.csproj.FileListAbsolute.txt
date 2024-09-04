@@ -110,3 +110,6 @@ D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\API\ChallengeN5.API\bin\De
 D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\API\ChallengeN5.API\bin\Debug\net8.0\ChallengeN5.Infrastructure.Repository.pdb
 D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\API\ChallengeN5.API\bin\Debug\net8.0\ChallengeN5.Domain.pdb
 D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\API\ChallengeN5.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\API\ChallengeN5.API\bin\Debug\net8.0\AutoMapper.dll
+D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\API\ChallengeN5.API\bin\Debug\net8.0\FluentValidation.dll
+D:\EDINSON\APUDATA\N5Challenge\webApi_N5Challenge\src\API\ChallengeN5.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

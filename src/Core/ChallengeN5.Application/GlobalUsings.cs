@@ -1,0 +1,17 @@
+﻿global using AutoMapper;
+global using Microsoft.Extensions.DependencyInjection;
+global using ChallengeN5.Application.Contracts;
+global using ChallengeN5.Application.Dtos;
+global using ChallengeN5.Application.Implements;
+global using ChallengeN5.Application.MapperProfiles;
+global using ChallengeN5.Domain.Permission;
+global using System.Text.Json.Serialization;
+global using ChallengeN5.Domain;
+global using ChallengeN5.Domain.Employee;
+global using ChallengeN5.Infrastructure.CrossCutting.CustomExceptions;
+global using ChallengeN5.Infrastructure.CrossCutting.Constants;
+global using Microsoft.Extensions.Options;
+global using ChallengeN5.Infrastructure.CrossCutting.MessageModels;
+global using FluentValidation.Results;
+global using ChallengeN5.Application.Validations;
+global using ChallengeN5.Domain.PermissionType;
