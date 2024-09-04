@@ -1,0 +1,12 @@
+﻿global using ChallengeN5.Application.Dtos;
+global using Xunit;
+global using AutoMapper;
+global using ChallengeN5.Application.MapperProfiles;
+global using System.Runtime.Serialization;
+global using ChallengeN5.Domain.Employee;
+global using ChallengeN5.Domain.Permission;
+global using ChallengeN5.Domain.PermissionType;
+global using ChallengeN5.Domain;
+global using ChallengeN5.Application.Test.Fixtures;
+global using Moq;
+global using ChallengeN5.Application.Implements;

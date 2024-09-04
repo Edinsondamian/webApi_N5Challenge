@@ -1,0 +1,16 @@
+﻿global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using Moq;
+global using ChallengeN5.Infrastructure.Repository.Context;
+global using System.Reflection;
+global using Xunit;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Metadata;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Microsoft.EntityFrameworkCore.Metadata.Internal;
+global using ChallengeN5.Domain.Employee;
+global using ChallengeN5.Domain.Permission;
+global using ChallengeN5.Domain.PermissionType;
+global using ChallengeN5.Infrastructure.Repository.Context.Mapping;
+global using ChallengeN5.Infrastructure.Repository.Test.Context;
+global using ChallengeN5.Infrastructure.Repository.Repositories;

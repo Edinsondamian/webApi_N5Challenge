@@ -60,9 +60,21 @@
               "target": "Package",
               "version": "[1.21.0, )"
             },
-            "Swashbuckle.AspNetCore": {
+            "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.7.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.7.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.7.3, )"
             }
           },
           "imports": [

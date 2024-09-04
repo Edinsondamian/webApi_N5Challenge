@@ -1,0 +1,23 @@
+{
+  "MessageHeader": {
+    "Values": {
+      "MH0001": "Header x-api-key es requerido.",
+      "MH0002": "Header x-api-key es inválido. Debe concidir con el formato ^\\d{6}$",
+      "MH0003": "Header x-api-key es inválido. Debe tener únicamente 6 números.",
+      "MH0004": "Body es inválido.",
+      "MH0005": "BodyParam employeeId es requerido.",
+      "MH0006": "BodyParam employeeId es inválido. Debe coincidir con el formato \"^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[34][0-9a-fA-F]{3}-[89ab][0-9a-fA-F]{3}-[0-9a-fA-F]{12}$\"",
+      "MH0007": "BodyParam employeeId es inválido. Debe tener únicamente 36 caracteres.",
+      "MH0008": "BodyParam permissionTypeId es requerido.",
+      "MH0009": "BodyParam permissionTypeId es inválido. Debe coincidir con el formato \"^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[34][0-9a-fA-F]{3}-[89ab][0-9a-fA-F]{3}-[0-9a-fA-F]{12}$\"",
+      "MH0010": "BodyParam permissionTypeId es inválido. Debe tener únicamente 36 caracteres."
+    }
+  },
+  "MessageValidation": {
+    "Values": {
+      "DP0001": "BodyParam employeeId no se encuentra en nuestros registros.",
+      "DP0002": "BodyParam permissionTypeId no se encuentra en nuestros registros.",
+      "DP0003": "El permiso no se encuentra en nuestros registros."
+    }
+  }
+}
