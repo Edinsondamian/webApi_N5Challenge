@@ -7,7 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
         .AddServicesApi(builder.Configuration)
         .AddServicesApplication()
         .AddServicesCrossCutting()
-        .AddServicesInfrastructurePersistence(builder.Configuration);
+        .AddServicesInfrastructurePersistence(builder.Configuration)
+        .AddServicesKafkaProducer(builder.Configuration);
 }
 
 var app = builder.Build();
