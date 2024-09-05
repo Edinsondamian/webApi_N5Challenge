@@ -26,3 +26,4 @@ global using System.Text.RegularExpressions;
 global using Microsoft.AspNetCore.Mvc.Filters;
 global using ChallengeN5.API.Validations;
 global using ChallengeN5.API.Filters;
+global using ChallengeN5.Infrastructure.KafkaProducer;
